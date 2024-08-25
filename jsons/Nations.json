@@ -2,7 +2,7 @@
   {
     
     "name": "Candy Kingdom",
-    "leaderName": "PB",
+    "leaderName": "Princess Bubblegum",
     "startBias": ["Grassland"],
 
     "declaringWar": "W.I.P",
@@ -19,7 +19,7 @@
   {
     "name": "Castle Lemongrab",
     "leaderName": "Lemongrab",
-    "startBias": ["Grassland"],
+    "startBias": ["Forest"],
 
     "declaringWar": "You are UNACCEPTABLE!!!",
     "attacked": "Only ONE!!!",
