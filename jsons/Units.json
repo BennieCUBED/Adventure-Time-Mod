@@ -28,9 +28,9 @@
 		"unitType": "Sword",
 		"movement": 3,
 		"strength": 8,
-		"cost": 70,
+		"cost": 120,
 		"uniqueTo": "Barbarians",
-		"attackSound": "nonmetalhit",
+		"attackSound": "metalhit",
 	},
 		{
 		"name": "Scout",
