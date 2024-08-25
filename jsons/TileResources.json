@@ -12,7 +12,7 @@
 	{
 		"name": "Duck",
 		"resourceType": "Bonus",
-		"RevealedBy": "Hunting",
+		"revealedBy": "Hunting",
 		"terrainsCanBeFoundOn": ["Grassland"],
 		"food": 1,
 		"improvementStats": {"food": 1},
