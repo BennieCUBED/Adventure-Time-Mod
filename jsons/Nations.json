@@ -17,7 +17,7 @@
     "innerColor": [214, 167, 209],
     "uniqueName": "Magic is just science!",
     "uniques": ["[+1 Science] [in all cities]"],
-    "cities": ["Candy town"],
+    "cities": ["Candy town","Rockcandy town","Icecream village","Sweet city","Sour square","Pop town"],
   },
   {
     "name": "Castle Lemongrab",
@@ -36,7 +36,7 @@
     "innerColor": [245, 245, 166],
     "uniqueName": "Unacceptable!",
     "uniques": ["[+1 Food] per [4] population [in all cities]"],
-    "cities": ["Castle Lemongrab"],
+    "cities": ["Castle Lemongrab","Lemon street","Flumen acidum","Lemon tower","Lemon Center","Lemon oppidum"],
   },
   {
 	  "name": "Fire Kingdom",
@@ -55,7 +55,7 @@
 	  "innerColor": [117, 9, 36],
 	  "uniqueName": "Fire Guardians",
 	  "uniques": ["[+50]% Strength for cities <when defending>"],
-	  "cities": ["Fire Kingdom"],
+	  "cities": ["Fire Kingdom","Burning town","Blastington","Hot ],
   },
 
   	{
