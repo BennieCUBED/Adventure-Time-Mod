@@ -54,7 +54,7 @@
 	  "outerColor": [168, 3, 3],
 	  "innerColor": [117, 9, 36],
 	  "uniqueName": "Fire Guardians",
-	  "uniques": ["[+20%] Strength"],
+	  "uniques": ["[+50]% Strength for cities <when defending>"],
 	  "cities": ["Fire Kingdom"],
   },
   	{
@@ -63,5 +63,5 @@
        "innerColor": [185,12,12],
 		"uniques": ["Can only heal by pillaging", "Excluded from map editor",
 			"[Water] units gain the [Unable to pillage tiles] promotion"]
-    }
+    },
 ]
