@@ -15,7 +15,7 @@
         "iconRGB": [255, 87, 35]
     },
       {
-        "name": "Ancient era",
+        "name": "New World era",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
         "startingWorkerCount": 0,
