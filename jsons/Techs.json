@@ -45,6 +45,12 @@
 				"prerequisites": ["Starting Tech"],
 				"quote": "'The meek shall inherit the Earth, but not its mineral rights.' - J. Paul Getty"
 			},
+			{
+				"name": "Archery",
+				"row": 7,
+				"prerequisites": ["Starting Tech"],
+				"quote": "'The haft of the arrow has been feathered with one of the eagle's own plumes, we often give our enemies the means of our own destruction' - Aesop"
+			},
 ]
 	},
 		{
