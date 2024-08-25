@@ -43,4 +43,14 @@
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit",
 	},
+	{
+		"name": "Archer",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"attackSound": "arrow",
+	},
 ]
