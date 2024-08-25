@@ -6,7 +6,7 @@
     "startBias": ["Grassland"],
 
     "declaringWar": "For the Candy Kingdom!",
-    "attacked": "If its war you want its war you'll get!",
+    "attacked": "If its war you want, its war you'll get!",
     "defeated": "WHAT!?",
     "introduction": "Hello! and welcome to the Candy Kingdom!",
 
@@ -17,7 +17,7 @@
     "innerColor": [214, 167, 209],
     "uniqueName": "Magic is just science!",
     "uniques": ["[+1 Science] [in all cities]"],
-    "cities": ["Candyland"],
+    "cities": ["Candy town"],
   },
   {
     "name": "Castle Lemongrab",
@@ -26,7 +26,7 @@
 
     "declaringWar": "You are UNACCEPTABLE!!!",
     "attacked": "Only ONE!!!",
-    "defeated": "W.I.P",
+    "defeated": "You made me!",
     "introduction": "Hmm... I am Lemongrab, Earl of Lemongrab.",
 
     "neutralHello": "Hi.",
@@ -37,6 +37,25 @@
     "uniqueName": "Unacceptable!",
     "uniques": ["[+1 Food] per [4] population [in all cities]"],
     "cities": ["Castle Lemongrab"],
+  },
+  {
+	  "name": "Fire Kingdom",
+	  "leaderName": "Fire Princess",
+	  "startBias": ["Hill"],
+
+	  "declaringWar": "I'm gonna burn your people to the ground!",
+	  "attacked": "W.I.P",
+	  "defeated": "W.I.P",
+	  "introduction": "Greetings, I'm the Princess of the fire Kingdom.",
+
+	  "neutralHello": "Hello!",
+	  "hateHello": "What do you want?",
+
+	  "outerColor": [],
+	  "innerColor": [],
+	  "uniqueName": "",
+	  "uniques": [""],
+	  "cities": ["Fire Kingdom"],
   },
   	{
 		"name": "Barbarians",
