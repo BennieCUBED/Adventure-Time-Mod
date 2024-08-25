@@ -32,4 +32,15 @@
 		"uniqueTo": "Barbarians",
 		"attackSound": "nonmetalhit",
 	},
+		{
+		"name": "Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 35,
+		"requiredTech": "Exploration",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit",
+	},
 ]
