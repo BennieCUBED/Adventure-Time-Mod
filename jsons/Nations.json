@@ -51,10 +51,10 @@
 	  "neutralHello": "Hello!",
 	  "hateHello": "What do you want?",
 
-	  "outerColor": [],
-	  "innerColor": [],
-	  "uniqueName": "",
-	  "uniques": [""],
+	  "outerColor": [168, 3, 3],
+	  "innerColor": [117, 9, 36],
+	  "uniqueName": "Fire Guardians",
+	  "uniques": ["[+20%] Strength"],
 	  "cities": ["Fire Kingdom"],
   },
   	{
