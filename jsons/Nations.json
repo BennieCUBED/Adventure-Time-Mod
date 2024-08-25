@@ -44,8 +44,8 @@
 	  "startBias": ["Hill"],
 
 	  "declaringWar": "I'm gonna burn your people to the ground!",
-	  "attacked": "W.I.P",
-	  "defeated": "W.I.P",
+	  "attacked": "Our kingdom will not be put out!",
+	  "defeated": "Why...",
 	  "introduction": "Greetings, I'm the Princess of the fire Kingdom.",
 
 	  "neutralHello": "Hello!",
@@ -55,7 +55,7 @@
 	  "innerColor": [117, 9, 36],
 	  "uniqueName": "Fire Guardians",
 	  "uniques": ["[+50]% Strength for cities <when defending>"],
-	  "cities": ["Fire Kingdom","Burning town","Blastington","Hot ],
+	  "cities": ["Fire Kingdom","Burning town","Blastington","Core","Hotopia","Sizzlingdale","Volcanic","Erupted Chasms"],
   },
 
   	{
