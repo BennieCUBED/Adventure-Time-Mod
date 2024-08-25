@@ -1,10 +1,10 @@
 {
     "isBaseRuleset": true,
 
-          "constants": {
+      "constants": {
             "cityStrengthBase": 20,
-            "cityStrengthPerPop": 10,
-
+            "cityStrengthFromTechsMultiplier": 3,
+            "cityStrengthPerPop": 1,
 }
 
 }
