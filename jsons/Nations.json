@@ -10,6 +10,9 @@
     "defeated": "WHAT!?",
     "introduction": "Hello! and welcome to the Candy Kingdom!",
 
+    "neutralHello": "Hello.",
+    "hateHello": "What?",
+
     "outerColor": [237, 69, 220],
     "innerColor": [214, 167, 209],
     "uniqueName": "Magic is just science!",
@@ -25,6 +28,9 @@
     "attacked": "Only ONE!!!",
     "defeated": "W.I.P",
     "introduction": "Hmm... I am Lemongrab, Earl of Lemongrab.",
+
+    "neutralHello": "Hi.",
+    "hateHello": "Hmm...",
 
     "outerColor": [219, 232, 37],
     "innerColor": [240, 247, 141],
