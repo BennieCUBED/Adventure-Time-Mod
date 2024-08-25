@@ -33,15 +33,10 @@
         "religiousPressureAdjacentCity": 9,
         "peaceDealDuration": 10,
         "dealDuration": 25,
-        "startYear": -4000,
+        "startYear": 2450,
         "turns": [
-            {"yearsPerTurn": 60, "untilTurn":  50},
-            {"yearsPerTurn": 40, "untilTurn":  80},
-            {"yearsPerTurn": 30, "untilTurn": 100},
-            {"yearsPerTurn": 20, "untilTurn": 130},
-            {"yearsPerTurn": 10, "untilTurn": 155},
-            {"yearsPerTurn":  5, "untilTurn": 195},
-            {"yearsPerTurn":  2, "untilTurn": 260},
+            {"yearsPerTurn": 28, "untilTurn":  50},
+            {"yearsPerTurn": 8, "untilTurn":  80}
             {"yearsPerTurn":  1, "untilTurn": 330}
         ]
     },
@@ -61,16 +56,11 @@
         "religiousPressureAdjacentCity": 6,
         "peaceDealDuration": 10,
         "dealDuration": 30,
-        "startYear": -4000,
+        "startYear": 2475,
         "turns": [
-            {"yearsPerTurn":  40, "untilTurn": 75},
-            {"yearsPerTurn":  25, "untilTurn": 135},
-            {"yearsPerTurn":  20, "untilTurn": 160},
-            {"yearsPerTurn":  10, "untilTurn": 210},
-            {"yearsPerTurn":   5, "untilTurn": 270},
-            {"yearsPerTurn":   2, "untilTurn": 320},
-            {"yearsPerTurn":   1, "untilTurn": 440},
-            {"yearsPerTurn": 0.5, "untilTurn": 500}
+         {"yearsPerTurn": 22, "untilTurn":  50},
+            {"yearsPerTurn": 14, "untilTurn":  80}
+            {"yearsPerTurn":  1, "untilTurn": 330}
         ]
     },
     {
@@ -89,15 +79,11 @@
         "religiousPressureAdjacentCity": 4,
         "peaceDealDuration": 15,
         "dealDuration": 45,
-        "startYear": -4000,
+        "startYear": 2500,
         "turns": [
-            {"yearsPerTurn":  25, "untilTurn": 140},
-            {"yearsPerTurn":  15, "untilTurn": 230},
-            {"yearsPerTurn":  10, "untilTurn": 270},
-            {"yearsPerTurn":   5, "untilTurn": 360},
-            {"yearsPerTurn":   2, "untilTurn": 430},
-            {"yearsPerTurn":   1, "untilTurn": 530},
-            {"yearsPerTurn": 0.5, "untilTurn": 750}
+             {"yearsPerTurn": 8, "untilTurn":  50},
+            {"yearsPerTurn": 3, "untilTurn":  80}
+            {"yearsPerTurn":  1, "untilTurn": 330}
         ]
     },
     {
