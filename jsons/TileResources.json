@@ -2,6 +2,7 @@
 	{
 		"name": "Deer",
 		"resourceType": "Bonus",
+		"revealedBy": "Hunting",
 		"terrainsCanBeFoundOn": ["Grassland","Forest"],
 		"food": 1,
 		"improvement": "Pasture",
@@ -12,6 +13,7 @@
 	{
 		"name": "Duck",
 		"resourceType": "Bonus",
+		"RevealedBy": "Hunting",
 		"terrainsCanBeFoundOn": ["Grassland"],
 		"food": 1,
 		"improvement": "Pasture",
