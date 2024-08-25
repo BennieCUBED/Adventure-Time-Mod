@@ -16,4 +16,13 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Starting Tech",
 	},
+		{
+		"name": "Monument",
+		"culture": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"requiredTech": "Construction",
+		"uniques": ["Destroyed when the city is captured"]
+	},
 ]
