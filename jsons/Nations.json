@@ -26,10 +26,10 @@
     "defeated": "W.I.P",
     "introduction": "Hmm... I am Lemongrab, Earl of Lemongrab.",
 
-    "outerColor": [],
-    "innerColor": [],
+    "outerColor": [219, 232, 37],
+    "innerColor": [240, 247, 141],
     "uniqueName": "Unacceptable!",
-    "uniques": [""],
+    "uniques": ["[+1 Food] per [4] population [in all cities]"],
     "cities": ["Castle Lemongrab"],
   },
 ]
