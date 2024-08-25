@@ -5,7 +5,6 @@
 		"revealedBy": "Hunting",
 		"terrainsCanBeFoundOn": ["Grassland","Forest"],
 		"food": 1,
-		"improvement": "Pasture",
 		"improvementStats": {"production": 1},
 		"uniques": ["Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles>",
 					"Generated on every [22] tiles <in [Forest] tiles>"]
@@ -16,7 +15,6 @@
 		"RevealedBy": "Hunting",
 		"terrainsCanBeFoundOn": ["Grassland"],
 		"food": 1,
-		"improvement": "Pasture",
 		"improvementStats": {"food": 1},
 		"uniques": ["Generated on every [13] tiles <in [Grassland] tiles> <in tiles without [Forest]>"],
 	},
