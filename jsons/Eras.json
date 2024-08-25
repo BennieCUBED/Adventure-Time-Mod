@@ -1,7 +1,7 @@
 [
 
 {
-        "name": "Post-Comet",
+        "name": "Post-Catalyst Comet",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
         "startingWorkerCount": 0,
