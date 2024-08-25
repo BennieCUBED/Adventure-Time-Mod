@@ -14,6 +14,6 @@
     "innerColor": [214, 167, 209],
     "uniqueName": "Science",
     "uniques": ["[+1 Science] [in all cities]"],
-    "cities": "Candy Kingdom",
+    "cities": ["Candy Kingdom"],
   },
 ]
