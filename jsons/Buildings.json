@@ -25,4 +25,12 @@
 		"requiredTech": "Construction",
 		"uniques": ["Destroyed when the city is captured"]
 	},
+		{
+		"name": "Workshop",
+		"maintenance": 2,
+		"production": 2,
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 10},
+		"requiredTech": "Construction", 
+	},
 ]
