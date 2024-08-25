@@ -7,13 +7,29 @@
 
     "declaringWar": "W.I.P",
     "attacked": "W.I.P",
-    "defeated": "W.I.P",
-    "introduction": "W.I.P",
+    "defeated": "WHAT!?",
+    "introduction": "Hello! and welcome to the Candy Kingdom!",
 
     "outerColor": [237, 69, 220],
     "innerColor": [214, 167, 209],
-    "uniqueName": "Science",
+    "uniqueName": "Magic is just science!",
     "uniques": ["[+1 Science] [in all cities]"],
     "cities": ["Candy Kingdom"],
+  },
+  {
+    "name": "Castle Lemongrab",
+    "leaderName": "Lemongrab",
+    "startBias": ["Grassland"],
+
+    "declaringWar": "You are UNACCEPTABLE!!!",
+    "attacked": "Only ONE!!!",
+    "defeated": "W.I.P",
+    "introduction": "Hmm... I am Lemongrab, Earl of Lemongrab.",
+
+    "outerColor": [],
+    "innerColor": [],
+    "uniqueName": "Unacceptable!",
+    "uniques": [""],
+    "cities": ["Castle Lemongrab"],
   },
 ]
