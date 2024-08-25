@@ -23,7 +23,7 @@
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland","Desert","Tundra"],
 		"production": 1,
-		"improvement": "Quarry",
+		"improvement": "Mine",
 		"improvementStats": {"production": 1},
 		"uniques": ["Generated on every [20] tiles <in [{Featureless} {Grassland}] tiles>",
 			"Generated on every [28] tiles <in [Hill] tiles>"],
