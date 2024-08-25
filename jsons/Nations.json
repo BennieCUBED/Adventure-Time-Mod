@@ -1,1 +1,18 @@
+[
+  {
+    
+    "name": "Candy Kingdom",
+    "leaderName": "PB",
+    "startBias": ["Grasslands"],
 
+    "declaringWar": "W.I.P",
+    "attacked": "W.I.P",
+    "defeated": "W.I.P",
+    "introduction": "W.I.P",
+
+    "outerColor": [],
+    "innerColor": [],
+    "uniqueName": "Science",
+    "uniques": [""],
+    "cities": "Candy Kingdom",
+  },
