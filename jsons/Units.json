@@ -29,6 +29,7 @@
 		"movement": 3,
 		"strength": 8,
 		"cost": 70,
+		"uniqueTo": "Barbarians",
 		"attackSound": "nonmetalhit",
 	},
 ]
