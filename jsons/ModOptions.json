@@ -3,8 +3,8 @@
 
           "constants": {
             "cityStrengthBase": 20,
-            "cityStrengthPerPop": 5,
+            "cityStrengthPerPop": 10,
 
-}
+},
 
-}
+},
