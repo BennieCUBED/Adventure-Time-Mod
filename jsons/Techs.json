@@ -10,8 +10,22 @@
 				"name": "Starting Tech",
 				"row": 6,
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
-				"uniques": ["Starting tech"]
+				"uniques": ["Starting tech"],
 			}
 		]
+	},
+			"columnNumber": 1,
+		"era": "New World era",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+				{
+				"name": "Construction",
+				"row": 9,
+				"prerequisites": ["Starting tech"],
+				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
+				},
+]
 	},
 ]
