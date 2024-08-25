@@ -60,4 +60,10 @@
 				"prerequisites": ["Hunting"],
 				"quote": "'Even brute beasts and wandering birds do not fall into the same traps or nets twice.' - Saint Jerome"
 			},
+			{
+				"name": "Agriculture",
+				"row": 6,
+				"prerequisites": ["Construction"]
+				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
+			}
 ]
