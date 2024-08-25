@@ -170,7 +170,7 @@
 		"aiBuildingMaintenanceModifier": 0.8,
 		"aiUnitMaintenanceModifier": 0.75,
 		"aiUnitSupplyModifier": 0.3,
-		"aiMajorCivBonusStartingUnits": ["Era Starting Unit", "Scout"],
+		"aiMajorCivBonusStartingUnits": ["Era Starting Unit", "Warrior"],
 		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 0.85,
 		"aisExchangeTechs": true,
