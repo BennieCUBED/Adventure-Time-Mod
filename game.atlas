@@ -18,3 +18,10 @@ NationIcons/Castle Lemongrab
   orig: 300, 300
   offset: 0, 0
   index: -1
+UnitIcons/Vampire
+  rotate: false
+  xy: 620, 48
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
