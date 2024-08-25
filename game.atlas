@@ -1,6 +1,6 @@
 
 game.png
-size: 1024, 512
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -18,9 +18,16 @@ NationIcons/Castle Lemongrab
   orig: 300, 300
   offset: 0, 0
   index: -1
+NationIcons/Fire Kingdom
+  rotate: false
+  xy: 620, 4
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
 UnitIcons/Vampire
   rotate: false
-  xy: 620, 48
+  xy: 928, 48
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
