@@ -21,7 +21,7 @@
 		{
 		"name": "Stone",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Grassland","Desert","Tundra"],
+		"terrainsCanBeFoundOn": ["Grassland","Hill"],
 		"production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"production": 1},
