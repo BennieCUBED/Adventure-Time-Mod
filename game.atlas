@@ -1,0 +1,20 @@
+
+game.png
+size: 1024, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Candy Kingdom
+  rotate: false
+  xy: 4, 4
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+NationIcons/Castle Lemongrab
+  rotate: false
+  xy: 312, 4
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
