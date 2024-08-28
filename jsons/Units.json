@@ -53,4 +53,14 @@
 		"requiredTech": "Archery",
 		"attackSound": "arrow",
 	},
+	{
+		"name": "Spearman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 16,
+		"cost": 56,
+		"requiredTech": "Iron Working",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit",
+	},
 ]
