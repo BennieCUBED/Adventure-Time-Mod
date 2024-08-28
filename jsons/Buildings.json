@@ -16,7 +16,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Starting Tech",
 	},
-		{
+	{
 		"name": "Monument",
 		"culture": 2,
 		"cost": 40,
@@ -25,12 +25,19 @@
 		"requiredTech": "Construction",
 		"uniques": ["Destroyed when the city is captured"]
 	},
-		{
+	{
 		"name": "Workshop",
 		"maintenance": 2,
 		"production": 2,
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
 		"requiredTech": "Construction", 
+	},
+	{
+		"name": "Library",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing",
 	},
 ]
