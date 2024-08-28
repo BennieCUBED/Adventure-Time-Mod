@@ -72,6 +72,12 @@
 				"prerequisites": ["Construction"],
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
 			},
+						{
+				"name": "Mathematics",
+				"row": 7,
+				"prerequisites": ["Archery"],
+				"quote": "'Mathematics is the gate and key to the sciences.' - Roger Bacon"
+			},
 		],
 		},
 ]
