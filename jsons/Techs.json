@@ -78,6 +78,12 @@
 				"prerequisites": ["Archery"],
 				"quote": "'Mathematics is the gate and key to the sciences.' - Roger Bacon"
 			},
+			{
+				"name": "Iron Working",
+				"row": 10,
+				"prerequisites": ["Mining"],
+				"quote": "'Do not wait to strike til the iron is hot, but make it hot by striking.' - William Butler Yeats"
+			}
 		],
 		},
 ]
