@@ -22,7 +22,7 @@
   {
     "name": "Castle Lemongrab",
     "leaderName": "Lemongrab",
-    "startBias": ["Forest"],
+    "startBias": ["Forest","Avoid [Snow]"],
 
     "declaringWar": "You are UNACCEPTABLE!!!",
     "attacked": "Only ONE!!!",
@@ -41,7 +41,7 @@
   {
 	  "name": "Fire Kingdom",
 	  "leaderName": "Fire Princess",
-	  "startBias": ["Hill"],
+	  "startBias": ["Hill","Avoid [Snow]"],
 
 	  "declaringWar": "I'm gonna burn your people to the ground!",
 	  "attacked": "Our kingdom will not be put out!",
