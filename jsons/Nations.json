@@ -98,7 +98,7 @@
 		"attacked": "Wizards rule!",
 		"defeated": "Welp, We're outta here...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [145, 102, 16],
+		"innerColor": [161, 52, 235],
 		"cities": ["Wizard city"],
 	},
 		
