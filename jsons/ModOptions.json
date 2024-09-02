@@ -3,7 +3,7 @@
 
       "constants": {
             "cityStrengthBase": 10,
-            "cityStrengthFromTechsMultiplier": 3,
+            "cityStrengthFromTechsMultiplier": 2,
             "cityStrengthPerPop": 0,
 }
 
