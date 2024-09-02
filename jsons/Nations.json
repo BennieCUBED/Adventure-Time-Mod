@@ -57,6 +57,24 @@
 	  "uniques": ["[+50]% Strength for cities <when defending>"],
 	  "cities": ["Fire Kingdom","Burning town","Blastington","Core","Hotopia","Sizzlingdale","Volcanic","Erupted Chasms"],
   },
+ {
+	 "name": "Ice Kingdom",
+	 "leaderName": "Ice King",
+	 "startBias": ["Snow"],
+
+	 "declaringWar": "With the power of ice and snow!",
+	 "attacked": "That's it, no more Mr. Nice king!",
+	 "defeated": "Aww...",
+	 "introduction": "Oooh, Hello beautiful princess... ;)",
+
+	 "neutralHello": "Hello, heheh.",
+	 "hateHello": "What do you want?",
+
+	 "outerColor": [],
+	 "innerColor": [],
+	 "uniqueName": "Ice and snow",
+	 "uniques": [""],
+	 "cities": ["Ice Kingdom","Ice Castle","Snow Golem's cabin","Gunter's hill","Nice Ice","Snowyville","Penguinsland","Ice cube","Frosting"],
   {
 		"name": "City of Thieves",
 	        "style": "Goblin",
