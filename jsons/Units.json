@@ -82,6 +82,7 @@
 		"uniqueTo": "Barbarians",
 		"replaces": "Swordsman",
 		"requiredTech": "Iron Working",
+		"uniques": ["Heals [50] damage if it kills a unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit",
 	},
