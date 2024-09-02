@@ -40,4 +40,12 @@
 		"uniques": ["Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles>",
 					"Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>"]
 	},
+		{
+		"name": "Fish",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Coast"],
+		"food": 1,
+		"improvement": "Fishing Boats",
+		"uniques": ["Generated on every [10] tiles <in [{Featureless} {Coast}] tiles>"]
+	},
 ]
