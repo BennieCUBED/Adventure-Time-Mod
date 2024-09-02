@@ -2,6 +2,7 @@
   {
     
     "name": "Candy Kingdom",
+    "style": "Candy",
     "leaderName": "Princess Bubblegum",
     "startBias": ["Grassland"],
 
@@ -21,6 +22,7 @@
   },
   {
     "name": "Castle Lemongrab",
+    "style": "Candy",
     "leaderName": "Lemongrab",
     "startBias": ["Forest","Avoid [Snow]"],
 
