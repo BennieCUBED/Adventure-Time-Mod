@@ -52,7 +52,7 @@
 	  "hateHello": "What do you want?",
 
 	  "outerColor": [168, 3, 3],
-	  "innerColor": [117, 9, 36],
+	  "innerColor": [46, 3, 22],
 	  "uniqueName": "Fire Guardians",
 	  "uniques": ["[+50]% Strength for cities <when defending>"],
 	  "cities": ["Fire Kingdom","Burning town","Blastington","Core","Hotopia","Sizzlingdale","Volcanic","Erupted Chasms"],
@@ -70,8 +70,8 @@
 	 "neutralHello": "Hello, heheh.",
 	 "hateHello": "What do you want?",
 
-	 "outerColor": [],
-	 "innerColor": [],
+	 "outerColor": [16, 194, 194],
+	 "innerColor": [6, 56, 125],
 	 "uniqueName": "Ice and snow",
 	 "uniques": [""],
 	 "cities": ["Ice Kingdom","Ice Castle","Snow Golem's cabin","Gunter's hill","Nice Ice","Snowyville","Penguinsland","Ice cube","Frosting"],
