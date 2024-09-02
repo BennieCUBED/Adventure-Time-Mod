@@ -6,77 +6,119 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Candy Kingdom
   rotate: false
-  xy: 4, 104
+  xy: 4, 176
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 NationIcons/Castle Lemongrab
   rotate: false
-  xy: 312, 104
+  xy: 312, 176
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 NationIcons/Fire Kingdom
   rotate: false
-  xy: 620, 104
+  xy: 620, 176
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
+ResourceIcons/Cow
+  rotate: false
+  xy: 4, 68
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Duck
+  rotate: false
+  xy: 928, 220
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cow
+  rotate: false
+  xy: 1720, 384
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cow+Pasture
+  rotate: false
+  xy: 1792, 444
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Goblin
   rotate: false
-  xy: 928, 112
+  xy: 928, 184
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Goblin
   rotate: false
-  xy: 1456, 376
+  xy: 112, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Thief
   rotate: false
-  xy: 1456, 376
+  xy: 112, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Vampire
   rotate: false
-  xy: 4, 4
+  xy: 184, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Goblin
   rotate: false
-  xy: 76, 68
+  xy: 968, 184
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Cow
+  rotate: false
+  xy: 1720, 420
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Cow+Pasture
+  rotate: false
+  xy: 4, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Vampire
   rotate: false
-  xy: 4, 40
+  xy: 112, 112
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 UnitIcons/Thief
   rotate: false
-  xy: 928, 148
+  xy: 1192, 220
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Vampire
   rotate: false
-  xy: 1192, 148
+  xy: 1456, 220
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
