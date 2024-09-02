@@ -32,6 +32,7 @@
 		"strength": 8,
 		"cost": 120,
 		"uniqueTo": "Barbarians",
+		"obsoleteTech": "Iron Working",
 		"attackSound": "metalhit",
 	},
 		{
@@ -122,4 +123,17 @@
 		"hurryCostModifier": 20,
 		"attackSound": "horse",
 	},
+	{
+		"name": "Banana Guard",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Candy Kingdom",
+		"movement": 3,
+		"strength": 14,
+		"cost": 40,
+		"requiredTech": "Iron Working",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit",
+	},
+	
 ]
