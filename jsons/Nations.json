@@ -74,7 +74,8 @@
 	 "innerColor": [6, 56, 125],
 	 "uniqueName": "Ice and snow",
 	 "uniques": ["[+1 Production] from every [Mine] <in [Snow] tiles>"],
-	 "cities": ["Ice Kingdom","Ice Castle","Snow Golem's cabin","Gunter's hill","Nice Ice","Snowyville","Penguinsland","Ice cube","Frosting"],
+	 "cities": ["Ice Kingdom","Ice Castle","Snow Golem's cabin","Gunter's hill","Nice Ice","Snowyville","Penguin Bay","Ice cube","Frosting"],
+ },
   {
 		"name": "City of Thieves",
 	        "style": "Goblin",
