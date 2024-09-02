@@ -39,9 +39,16 @@ TileSets/HexaRealm/Units/Vampire
   orig: 64, 56
   offset: 0, 0
   index: -1
-UnitIcons/Vampire
+UnitIcons/Thief
   rotate: false
   xy: 928, 112
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Vampire
+  rotate: false
+  xy: 1192, 112
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
