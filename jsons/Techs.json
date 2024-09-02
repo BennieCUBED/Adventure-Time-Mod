@@ -84,6 +84,13 @@
 				"prerequisites": ["Mining"],
 				"quote": "'Do not wait to strike til the iron is hot, but make it hot by striking.' - William Butler Yeats"
 			}
+			{
+				"name": "Sailing",
+				"row": 1,
+				"prerequisites": ["Exploration"],
+				"uniques": ["Enables embarkation for land units"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
 		],
 		},
 ]
