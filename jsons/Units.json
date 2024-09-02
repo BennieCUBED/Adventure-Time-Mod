@@ -118,7 +118,7 @@
 		"cost": 84,
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse",
 	},
