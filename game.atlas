@@ -25,6 +25,13 @@ NationIcons/Fire Kingdom
   orig: 300, 300
   offset: 0, 0
   index: -1
+NationIcons/Ice Kingdom
+  rotate: false
+  xy: 928, 206
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
 ResourceIcons/Cow
   rotate: false
   xy: 4, 68
@@ -34,91 +41,91 @@ ResourceIcons/Cow
   index: -1
 ResourceIcons/Duck
   rotate: false
-  xy: 928, 220
+  xy: 1206, 220
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Cow
   rotate: false
-  xy: 1720, 384
+  xy: 112, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Cow+Pasture
   rotate: false
-  xy: 1792, 444
+  xy: 256, 136
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Goblin
   rotate: false
-  xy: 928, 184
+  xy: 1998, 448
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Goblin
   rotate: false
-  xy: 112, 76
+  xy: 1998, 412
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Thief
   rotate: false
-  xy: 112, 76
+  xy: 1998, 412
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Vampire
   rotate: false
-  xy: 184, 140
+  xy: 152, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Goblin
   rotate: false
-  xy: 968, 184
+  xy: 296, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Cow
   rotate: false
-  xy: 1720, 420
+  xy: 4, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Cow+Pasture
   rotate: false
-  xy: 4, 4
+  xy: 112, 112
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Vampire
   rotate: false
-  xy: 112, 112
+  xy: 184, 112
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 UnitIcons/Thief
   rotate: false
-  xy: 1192, 220
+  xy: 1470, 220
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Vampire
   rotate: false
-  xy: 1456, 220
+  xy: 1734, 220
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
