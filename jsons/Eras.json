@@ -28,4 +28,21 @@
         "citySound": "cityAncient",
         "iconRGB": [255, 87, 35]
     },
+    {
+        "name": "Adventure Time era",
+        "researchAgreementCost": 250,
+        "startingSettlerCount": 1,
+        "startingWorkerCount": 1,
+        "startingMilitaryUnitCount": 3,
+        "startingMilitaryUnit": "Spearman",
+        "startingGold": 25,
+        "startingCulture": 200,
+        "settlerPopulation": 1,
+        "settlerBuildings": ["Garden","Monument"],
+        "baseUnitBuyCost": 200,
+        "embarkDefense": 6,
+        "startPercent": 25,
+        "citySound": "cityMedieval",
+        "iconRGB": [157, 39, 176]
+    },
 ]
