@@ -98,4 +98,13 @@
 		"uniques": ["[+20]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit",
 	},
+	{
+		"name": "Work Boats",
+		"unitType": "Civilian Water",
+		"movement": 4,
+		"cost": 30,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles", "May create improvements on water resources",
+            "Uncapturable", "Automation is a primary action"]
+	},
 ]
