@@ -56,9 +56,9 @@
 		{
 		"columnNumber": 2,
 		"era": "New World era",
-		"techCost": 85,
-		"buildingCost": 75,
-		"wonderCost": 185,
+		"techCost": 110,
+		"buildingCost": 80,
+		"wonderCost": 200,
 		"techs": [
 			{
 				"name": "Trapping",
@@ -93,4 +93,19 @@
 			},
 		],
 		},
+			{
+		"columnNumber": 3,
+		"era": "Adventure Time era",
+		"techCost": 140,
+		"buildingCost": 95,
+		"wonderCost": 240,
+		"techs": [
+			{
+				"name": "Horseback Riding",
+				"row": 5,
+				"prerequisites": ["Trapping","Iron Working"],
+				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
+			},
+		],
+			},
 ]
