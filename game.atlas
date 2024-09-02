@@ -6,56 +6,77 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Candy Kingdom
   rotate: false
-  xy: 4, 68
+  xy: 4, 104
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 NationIcons/Castle Lemongrab
   rotate: false
-  xy: 312, 68
+  xy: 312, 104
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 NationIcons/Fire Kingdom
   rotate: false
-  xy: 620, 68
+  xy: 620, 104
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Composite Bowman-Goblin
+  rotate: false
+  xy: 928, 112
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Swordsman-Goblin
+  rotate: false
+  xy: 1456, 376
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Thief
   rotate: false
-  xy: 928, 76
+  xy: 1456, 376
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Vampire
   rotate: false
-  xy: 1456, 340
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-Goblin
+  rotate: false
+  xy: 76, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Vampire
   rotate: false
-  xy: 4, 4
+  xy: 4, 40
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 UnitIcons/Thief
   rotate: false
-  xy: 928, 112
+  xy: 928, 148
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Vampire
   rotate: false
-  xy: 1192, 112
+  xy: 1192, 148
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
