@@ -25,9 +25,16 @@ NationIcons/Fire Kingdom
   orig: 300, 300
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Vampire
+TileSets/FantasyHex/Units/Thief
   rotate: false
   xy: 928, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Vampire
+  rotate: false
+  xy: 1456, 340
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
