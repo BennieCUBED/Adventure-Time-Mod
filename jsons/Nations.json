@@ -57,6 +57,18 @@
 	  "uniques": ["[+50]% Strength for cities <when defending>"],
 	  "cities": ["Fire Kingdom","Burning town","Blastington","Core","Hotopia","Sizzlingdale","Volcanic","Erupted Chasms"],
   },
+  {
+		"name": "City of Thieves",
+		"adjective": ["Thieves"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "Yoink!.",
+		"attacked": "Hehehehehe!.",
+		"defeated": "Be warned! Who ever enters the city of thieves becomes a thief!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,255,0],
+		"cities": ["City of Thieves"]
+	},
 
   	{
 		"name": "Barbarians",
