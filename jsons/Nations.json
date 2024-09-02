@@ -87,8 +87,21 @@
 		"defeated": "Be warned! Who ever enters the city of thieves becomes a thief!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [145, 102, 16],
-		"cities": ["City of Thieves"]
+		"cities": ["City of Thieves"],
 	},
+	{
+		"name": "Wizard city",
+		"adjective": ["Wizard"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "Here goes nothing..!",
+		"attacked": "Wizards rule!",
+		"defeated": "Welp, We're outta here...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [145, 102, 16],
+		"cities": ["Wizard city"],
+	},
+		
 
   	{
 		"name": "Barbarians",
