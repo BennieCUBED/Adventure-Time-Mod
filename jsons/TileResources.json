@@ -6,7 +6,7 @@
 		"terrainsCanBeFoundOn": ["Grassland","Forest"],
 		"food": 1,
 		"improvement": "Camp",
-		"improvementStats": {"production": 1},
+		"improvementStats": {"gold": 1},
 		"uniques": ["Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles>",
 					"Generated on every [22] tiles <in [Forest] tiles>"]
 	},
@@ -29,5 +29,15 @@
 		"improvementStats": {"production": 1},
 		"uniques": ["Generated on every [20] tiles <in [{Featureless} {Grassland}] tiles>",
 			"Generated on every [28] tiles <in [Hill] tiles>"],
+	},
+	{
+		"name": "Cow",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland"],
+		"food": 1,
+		"improvement": "Pasture",
+		"improvementStats": {"food": 1},
+		"uniques": ["Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles>",
+					"Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>"]
 	},
 ]
