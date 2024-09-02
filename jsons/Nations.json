@@ -66,7 +66,7 @@
 		"attacked": "Hehehehehe!.",
 		"defeated": "Be warned! Who ever enters the city of thieves becomes a thief!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [255,255,0],
+		"innerColor": [145, 102, 16],
 		"cities": ["City of Thieves"]
 	},
 
