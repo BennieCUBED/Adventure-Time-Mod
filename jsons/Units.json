@@ -44,7 +44,7 @@
 		"attackSound": "nonmetalhit",
 	},
 	{
-		"name": "Archer",
+		"name": "Composite Bowman",
 		"unitType": "Archery",
 		"movement": 2,
 		"strength": 5,
@@ -83,6 +83,18 @@
 		"replaces": "Swordsman",
 		"requiredTech": "Iron Working",
 		"hurryCostModifier": 20,
+		"attackSound": "metalhit",
+	},
+	{
+		"name": "Marauder",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Barbarians",
+		"movement": 2,
+		"strength": 10,
+		"cost": 56,
+		"requiredTech": "Iron Working",
+		"uniques": ["[+20]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit",
 	},
 ]
