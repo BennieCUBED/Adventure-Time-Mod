@@ -21,6 +21,8 @@
 		"movement": 2,
 		"strength": 8,
 		"cost": 40,
+		"upgradesTo": "Spearman",
+		"obsoleteTech": "Iron Working",
 		"attackSound": "nonmetalhit",
 	},
 		{
@@ -58,7 +60,7 @@
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 16,
-		"cost": 56,
+		"cost": 50,
 		"requiredTech": "Iron Working",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit",
@@ -70,6 +72,7 @@
 		"strength": 16,
 		"cost": 75,
 		"requiredTech": "Iron Working",
+		"uniques": ["[+50]% Strength <vs [Sword] units>"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit",
 	},
@@ -106,5 +109,17 @@
 		"requiredTech": "Sailing",
 		"uniques": ["Cannot enter ocean tiles", "May create improvements on water resources",
             "Uncapturable", "Automation is a primary action"]
+	},
+	{
+		"name": "Horseman",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 18,
+		"cost": 84,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse",
 	},
 ]
