@@ -59,6 +59,7 @@
   },
   {
 		"name": "City of Thieves",
+	        "style": "Goblin",
 		"adjective": ["Thieves"],
 		"cityStateType": "Mercantile",
 
