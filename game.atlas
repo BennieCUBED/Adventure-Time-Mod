@@ -48,49 +48,77 @@ ResourceIcons/Duck
   index: -1
 TileSets/FantasyHex/Tiles/Cow
   rotate: false
-  xy: 112, 76
+  xy: 1998, 412
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Cow+Pasture
   rotate: false
-  xy: 256, 136
+  xy: 1998, 372
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Composite Bowman-Goblin
+TileSets/FantasyHex/Units/Banana Guard
   rotate: false
   xy: 1998, 448
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Composite Bowman-Candy
+  rotate: false
+  xy: 112, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Composite Bowman-Goblin
+  rotate: false
+  xy: 256, 140
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Swordsman-Goblin
-  rotate: false
-  xy: 1998, 412
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Thief
-  rotate: false
-  xy: 1998, 412
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Vampire
   rotate: false
   xy: 152, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Warrior-Goblin
+TileSets/FantasyHex/Units/Thief
+  rotate: false
+  xy: 152, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Vampire
   rotate: false
   xy: 296, 140
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-Candy
+  rotate: false
+  xy: 1998, 336
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-Goblin
+  rotate: false
+  xy: 192, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Candy
+  rotate: false
+  xy: 336, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
