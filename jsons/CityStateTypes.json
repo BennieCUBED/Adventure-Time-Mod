@@ -22,12 +22,12 @@
     {
         "name": "Mercantile",
         "friendBonusUniques": [
-            "[+2 Happiness] <before the [Medieval era]>",
-            "[+3 Happiness] <starting from the [Medieval era]>"
+            "[+2 Gold] <before the [New World era]>",
+            "[+3 Gold] <starting from the [New World era]>"
         ],
         "allyBonusUniques": [
-            "[+2 Happiness] <before the [Medieval era]>",
-            "[+3 Happiness] <starting from the [Medieval era]>",
+            "[+2 Gold] <before the [New World era]>",
+            "[+3 Gold] <starting from the [New World era]>",
             "Provides a unique luxury"
         ],
         "color": [255, 216, 0]
