@@ -12,4 +12,11 @@
 		"name": "Ignore terrain cost",
 		"uniques": ["Ignores terrain cost"]
 	},
+	{
+		"name": "Cover I",
+		"uniques": ["[+33]% Strength <vs [Ranged] units> <when defending>"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege"],
+        "column": 24,
+        "row": 1
+	},
 ]
