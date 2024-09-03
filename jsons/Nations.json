@@ -55,7 +55,7 @@
 
 	  "outerColor": [168, 3, 3],
 	  "innerColor": [46, 3, 22],
-	  "uniqueName": "Fire Guardians",
+	  "uniqueName": "The Fire Guardians",
 	  "uniques": ["[+50]% Strength for cities <when defending>"],
 	  "cities": ["Fire Kingdom","Burning town","Blastington","Core","Hotopia","Sizzlingdale","Volcanic","Erupted Chasms"],
   },
