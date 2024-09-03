@@ -80,4 +80,14 @@
 		"requiredTech": "Iron Working",
 		"uniques": ["Destroyed when the city is captured"]
 	},
+	{
+		"name": "Fire Guardians",
+		"cityStrength": 9,
+		"cityHealth": 10,
+		"hurryCostModifier": 30,
+		"requiredTech": "Iron Working",
+		"uniqueTo": "Fire Kingdom",
+		"replaces": "Walls",
+		"uniques": ["Destroyed when the city is captured"]
+	},
 ]
