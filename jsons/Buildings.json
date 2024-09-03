@@ -63,4 +63,13 @@
         "uniques": ["Remove extra unhappiness from annexed cities"],
         "requiredTech": "Electricity",
     },
+    	{
+		"name": "Harbor",
+		"cost": 120,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+2 Gold] from [Water resource] tiles [in this city]",
+			"Connects trade routes over water","Must be next to [Coast]"],
+		"requiredTech": "Sailing",
+	},
 ]
