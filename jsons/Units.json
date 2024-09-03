@@ -54,6 +54,8 @@
 		"rangedStrength": 7,
 		"cost": 40,
 		"requiredTech": "Archery",
+		"obsoleteTech": "Diplomacy",
+		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow",
 	},
 	{
@@ -116,7 +118,7 @@
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 18,
-		"cost": 84,
+		"cost": 120,
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
@@ -134,6 +136,16 @@
 		"requiredTech": "Iron Working",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit",
+	},
+	{
+		"name": "Crossbowman",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 12,
+		"rangedStrength": 16,
+		"cost": 92,
+		"requiredTech": "Diplomacy",
+		"attackSound": "crossbow",
 	},
 	
 ]
