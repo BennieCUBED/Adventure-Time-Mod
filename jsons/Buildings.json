@@ -47,4 +47,11 @@
 		"percentStatBonus": {"gold": 25},
 		"requiredTech": "Mathematics"
 	},
+	{
+		"name": "Research Lab",
+		"science": 2,
+		"percentStatBonus": {"science": 50},
+		"maintenance": 2,
+		"requiredTech": "Electricity",
+	},
 ]
