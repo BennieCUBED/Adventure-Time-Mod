@@ -147,5 +147,17 @@
 		"requiredTech": "Diplomacy",
 		"attackSound": "crossbow",
 	},
+	{
+		"name": "Battering Ram",
+		"unitType": "Sword", // You might expect this to be a siege unit, but apparently it is not
+		"movement": 2,
+		"strength": 10,
+		"cost": 75,
+		"requiredTech": "Mathematics",
+		"uniques": ["[+300]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-33]% Strength <when defending>",
+		"[-1] Sight", "Can only attack [City] units"],
+		"promotions":  ["Cover I"],
+		"attackSound": "throw",
+	},
 	
 ]
