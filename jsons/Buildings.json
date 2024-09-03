@@ -54,4 +54,13 @@
 		"maintenance": 2,
 		"requiredTech": "Electricity",
 	},
+        {
+        "name": "Police Station",
+	"happiness": 2,
+        "cost": 118,
+        "maintenance": 1,
+        "hurryCostModifier": 10,
+        "uniques": ["Remove extra unhappiness from annexed cities"],
+        "requiredTech": "Electricity",
+    },
 ]
