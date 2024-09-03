@@ -6,8 +6,8 @@
     "leaderName": "Princess Bubblegum",
     "startBias": ["Grassland"],
 
-    "declaringWar": "For the Candy Kingdom!",
-    "attacked": "If its war you want, its war you'll get!",
+    "declaringWar": "I'm sorry, but you are a threat to the Candy Kingdom...",
+    "attacked": "For the Candy Kingdom!",
     "defeated": "WHAT!?",
     "introduction": "Hello! and welcome to the Candy Kingdom!",
 
@@ -55,7 +55,7 @@
 
 	  "outerColor": [168, 3, 3],
 	  "innerColor": [46, 3, 22],
-	  "uniqueName": "The Fire Guardians",
+	  "uniqueName": "A Kingdom from a Spark",
 	  "uniques": ["[+50]% Strength for cities <when defending>"],
 	  "cities": ["Fire Kingdom","Burning town","Blastington","Core","Hotopia","Sizzlingdale","Volcanic","Erupted Chasms"],
   },
