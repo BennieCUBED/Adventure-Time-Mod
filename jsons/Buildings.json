@@ -72,4 +72,12 @@
 			"Connects trade routes over water","Must be next to [Coast]"],
 		"requiredTech": "Sailing",
 	},
+	{
+		"name": "Walls",
+		"cityStrength": 5,
+		"cityHealth": 10,
+		"hurryCostModifier": 25,
+		"requiredTech": "Iron Working",
+		"uniques": ["Destroyed when the city is captured"]
+	},
 ]
