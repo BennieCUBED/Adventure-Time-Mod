@@ -102,7 +102,7 @@
 		"techs": [
 			{
 				"name": "Horseback Riding",
-				"row": 5,
+				"row": 4,
 				"prerequisites": ["Trapping","Iron Working"],
 				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
 			},
