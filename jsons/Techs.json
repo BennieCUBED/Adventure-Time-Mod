@@ -106,6 +106,13 @@
 				"prerequisites": ["Trapping","Iron Working"],
 				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
 			},
+			{
+				"name": "Electricity",
+				"row": 8,
+				"prerequisites": ["Mathematics","Iron Working"],
+				"uniques": ["Improves movement speed on roads"],
+				"quote": "'The press is the best instrument for enlightening the mind of man, and improving him as a rational, moral and social being.' - Thomas Jefferson"
+			},
 		],
 			},
 ]
