@@ -55,14 +55,14 @@ ResourceIcons/Duck
   index: -1
 TileSets/FantasyHex/Tiles/Cow
   rotate: false
-  xy: 898, 842
+  xy: 152, 12
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Cow+Pasture
   rotate: false
-  xy: 970, 930
+  xy: 898, 802
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -81,51 +81,93 @@ TileSets/FantasyHex/Units/Composite Bowman-Candy
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Composite Bowman-Flame
+  rotate: false
+  xy: 898, 842
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Goblin
   rotate: false
-  xy: 184, 76
+  xy: 970, 934
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Crossbowman-Candy
+  rotate: false
+  xy: 970, 898
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Horseman-Candy
+  rotate: false
+  xy: 192, 12
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Goblin
   rotate: false
-  xy: 224, 76
+  xy: 898, 766
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Thief
   rotate: false
-  xy: 224, 76
+  xy: 898, 766
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Vampire
   rotate: false
-  xy: 898, 806
+  xy: 898, 730
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Candy
   rotate: false
-  xy: 970, 894
+  xy: 546, 120
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-Flame
+  rotate: false
+  xy: 586, 120
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Goblin
   rotate: false
-  xy: 898, 770
+  xy: 626, 120
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Candy
   rotate: false
-  xy: 898, 734
+  xy: 666, 120
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Flame
+  rotate: false
+  xy: 706, 120
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Goblin
+  rotate: false
+  xy: 746, 120
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -144,9 +186,16 @@ TileSets/HexaRealm/Tiles/Cow+Pasture
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Vampire
+TileSets/HexaRealm/Units/Thief
   rotate: false
   xy: 898, 878
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Vampire
+  rotate: false
+  xy: 184, 48
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
