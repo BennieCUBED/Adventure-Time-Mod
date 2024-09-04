@@ -42,6 +42,7 @@
   },
   {
 	  "name": "Fire Kingdom",
+	  "style": "Flame",
 	  "leaderName": "Fire Princess",
 	  "startBias": ["Hill","Avoid [Snow]"],
 
@@ -84,8 +85,8 @@
 		"adjective": ["Thieves"],
 		"cityStateType": "Mercantile",
 
-		"declaringWar": "Yoink!.",
-		"attacked": "Hehehehehe!.",
+		"declaringWar": "Yoink!",
+		"attacked": "Hehehehehe!",
 		"defeated": "Be warned! Who ever enters the city of thieves becomes a thief!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [145, 102, 16],
