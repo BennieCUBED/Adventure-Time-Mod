@@ -82,4 +82,17 @@
 					"Generated near City States with weight [8]",
 					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>"]
 	},
+		{
+		"name": "Gold Ore",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Hill","Forest"],
+		"gold": 2,
+		"improvement": "Mine",
+		"uniques": [
+					"Generated with weight [30] <in [Hill] Regions>",
+					"Generated with weight [5] <in [Plains] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>"],
+	},
 ]
