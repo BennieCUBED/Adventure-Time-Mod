@@ -69,4 +69,17 @@
 		"resourceType": "Luxury",
 		"uniques": ["[+10]% [Food]","[+20]% [Happiness]"],
 	},
+	{
+		"name": "Gems",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Forest","Hill"],
+		"gold": 3,
+		"improvement": "Mine",
+		"uniques": ["Generated with weight [5] <in [Tundra] Regions>",
+					"Generated with weight [15] <in [Hill] Regions>",
+					"Generated with weight [7] <in [Grassland] Regions>",
+					"Generated with weight [6] <in [Hybrid] Regions>",
+					"Generated near City States with weight [8]",
+					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>"]
+	},
 ]
