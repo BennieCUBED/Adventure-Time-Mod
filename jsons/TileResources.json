@@ -64,4 +64,9 @@
 		"majorDepositAmount": {"sparse": 4, "default": 4, "abundant": 6},
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 	},
+	{
+		"name": "Lemon",
+		"resourceType": "Luxury",
+		"uniques": ["[+10]% [Food]","[+20]% [Happiness]"],
+	},
 ]
