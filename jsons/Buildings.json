@@ -90,4 +90,14 @@
 		"replaces": "Walls",
 		"uniques": ["Destroyed when the city is captured"]
 	},
+	    {
+		"name": "Lemon Farm",
+		"food": 2,
+		"uniqueTo": "Castle Lemongrab",
+		"replaces": "Garden",
+		"hurryCostModifier": 25,
+		"uniques": ["[40]% Food is carried over after population increases [in this city]",
+			"Provides [1] [Lemon]"],
+		"requiredTech": "Starting Tech"
+	},
 ]
