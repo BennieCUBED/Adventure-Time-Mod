@@ -1,6 +1,6 @@
 
 game.png
-size: 1024, 1024
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -48,133 +48,147 @@ ResourceIcons/Cow
   index: -1
 ResourceIcons/Duck
   rotate: false
-  xy: 282, 126
+  xy: 898, 742
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ResourceIcons/Lemon
+  rotate: false
+  xy: 1162, 742
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingIcons/Lemon Farm
+  rotate: false
+  xy: 1162, 742
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Cow
   rotate: false
-  xy: 152, 12
+  xy: 192, 12
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Cow+Pasture
   rotate: false
-  xy: 898, 802
+  xy: 1954, 766
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Banana Guard
   rotate: false
-  xy: 970, 970
+  xy: 112, 12
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Candy
   rotate: false
-  xy: 112, 12
+  xy: 1954, 842
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Flame
   rotate: false
-  xy: 898, 842
+  xy: 152, 12
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Goblin
   rotate: false
-  xy: 970, 934
+  xy: 1954, 806
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-Candy
   rotate: false
-  xy: 970, 898
+  xy: 312, 384
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-Candy
   rotate: false
-  xy: 192, 12
+  xy: 352, 384
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Goblin
   rotate: false
-  xy: 898, 766
+  xy: 392, 384
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Thief
   rotate: false
-  xy: 898, 766
+  xy: 392, 384
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Vampire
   rotate: false
-  xy: 898, 730
+  xy: 432, 384
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Candy
   rotate: false
-  xy: 546, 120
+  xy: 472, 384
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Flame
   rotate: false
-  xy: 586, 120
+  xy: 512, 384
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Goblin
   rotate: false
-  xy: 626, 120
+  xy: 552, 384
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Candy
   rotate: false
-  xy: 666, 120
+  xy: 620, 692
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Flame
   rotate: false
-  xy: 706, 120
+  xy: 660, 692
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Goblin
   rotate: false
-  xy: 746, 120
+  xy: 700, 692
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Cow
   rotate: false
-  xy: 898, 942
+  xy: 1954, 942
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -188,7 +202,7 @@ TileSets/HexaRealm/Tiles/Cow+Pasture
   index: -1
 TileSets/HexaRealm/Units/Thief
   rotate: false
-  xy: 898, 878
+  xy: 1954, 878
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -209,14 +223,14 @@ UnitIcons/Banana Guard
   index: -1
 UnitIcons/Thief
   rotate: false
-  xy: 590, 434
+  xy: 1426, 742
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Vampire
   rotate: false
-  xy: 546, 156
+  xy: 1690, 742
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
