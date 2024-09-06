@@ -1,1 +1,24 @@
+[
+      {
+        "name": "a stash of gold",
+        "notification": "", // trigger notification only
+        "uniques": ["Gain [75]-[125] [Gold]"],
+        "color": "#ffeb7f"
+    },
+      {
+        "name": "advanced weaponry for your explorer",
+        "notification": "Our unit finds advanced weaponry hidden in the ruins!",
+        "uniques": ["[This Unit] upgrades for free including special upgrades"]
+    },
+      {
+        "name": "reveal nearby Barbarian camps",
+        "notification": "You find evidence of Bandit activity. Nearby Barbarian camps are revealed!",
+        "uniques": ["Reveal up to [All] [Barbarian encampment] within a [10] tile radius"]
+    },
+    {
+        "name": "find a crudely-drawn map",
+        "notification": "We have found a old map in the ruins!",
+        "uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [6] tiles away with [80]% chance"]
+    },
 
+]
