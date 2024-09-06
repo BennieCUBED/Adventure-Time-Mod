@@ -4,7 +4,7 @@
 		"isNationalWonder": true,
 		"production": 3,
 		"science": 3,
-		"gold": 3,
+		"gold": 5,
 		"culture": 1,
 		"cityStrength": 2,
 		"cost": 1,
@@ -21,13 +21,11 @@
 		"culture": 2,
 		"cost": 40,
 		"hurryCostModifier": 40,
-		"maintenance": 1,
 		"requiredTech": "Construction",
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
 		"name": "Workshop",
-		"maintenance": 2,
 		"production": 2,
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
@@ -42,9 +40,9 @@
 	},
 	{
 		"name": "Market",
-		"gold": 2,
+		"gold": 4,
 		"hurryCostModifier": 25,
-		"percentStatBonus": {"gold": 25},
+		"percentStatBonus": {"gold": 35},
 		"requiredTech": "Mathematics"
 	},
 	{
@@ -68,7 +66,7 @@
 		"cost": 120,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
-		"uniques": ["[+2 Gold] from [Water resource] tiles [in this city]",
+		"uniques": ["[+4 Gold] from [Water resource] tiles [in this city]",
 			"Connects trade routes over water","Must be next to [Coast]"],
 		"requiredTech": "Sailing",
 	},
