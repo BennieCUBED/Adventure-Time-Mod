@@ -160,7 +160,7 @@
 		"attackSound": "throw",
 	},
 	{
-		"name": "Ancient armor",
+		"name": "Ancient Armor",
 		"unitType": "Armored",
 		"movement": 5,
 		"strength": 20,
