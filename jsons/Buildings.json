@@ -98,4 +98,12 @@
 			"Provides [1] [Lemon]"],
 		"requiredTech": "Starting Tech"
 	},
+	{
+		"name": "Circus",
+	    //  "requiredNearbyImprovedResources": ["Ivory","Horses"],
+		"happiness": 4,
+		"gold": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Trapping",
+	},
 ]
