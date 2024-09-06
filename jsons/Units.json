@@ -165,7 +165,6 @@
 		"movement": 5,
 		"strength": 20,
 		"cost": 140,
-		"upgradesTo": "Modern Armor",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","Unbuildable", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot",
 	},
