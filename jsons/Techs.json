@@ -120,6 +120,12 @@
 				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
 			},
+			{
+				"name": "Entertainment",
+				"row": 3,
+				"prerequisites": ["Trapping"],
+				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock",
+			},
 		],
 			},
 ]
