@@ -106,4 +106,13 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Trapping",
 	},
+	{
+		"name": "Theater",
+		"happiness": 3,
+		"culture": 1,
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Entertainment", 
+	},
 ]
