@@ -20,10 +20,10 @@
         "notification": "We have found a old map in the ruins!",
         "uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [6] tiles away with [80]% chance"]
     },
-    {
-        "name": "pre-mushroom war tank",
-        "notification": "Our unit finds a pre-mushroom war tank hidden in the ruins!",
-        "uniques": ["Free [Ancient armor] appears <in [Capital] cities>"]
-    },
+ //   {
+  //      "name": "pre-mushroom war tank",
+ //       "notification": "Our unit finds a pre-mushroom war tank hidden in the ruins!",
+  //      "uniques": ["Free [Ancient armor] appears <in [Capital] cities>"]
+ //   },
 
 ]
