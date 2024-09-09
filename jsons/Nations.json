@@ -100,7 +100,8 @@
 
 	 "outerColor": [69, 163, 21],
 	 "innerColor": [203, 242, 61],
-	 "uniqueName": "Love games",
+	 "uniqueName": "Technology of Old",
+	 "uniques": ["[+30]% Production when constructing [Military] units [in all cities] <when at war>"],
 	 "cities": ["Slime pit","Slime caves","Slippery slope","Saltatio Fever","Underground","Green caverns","Open area","Sticky-Sticky"],
  },
   {
