@@ -98,10 +98,10 @@
 	 "neutralHello": "Oh hello...",
 	 "hateHello": "What now?",
 
-	 "outerColor": [],
-	 "innerColor": [],
+	 "outerColor": [69, 163, 21],
+	 "innerColor": [203, 242, 61],
 	 "uniqueName": "Technology of Old",
-	 "cities": [""],
+	 "cities": ["Slime Kingdom"],
  },
   {
 		"name": "City of Thieves",
