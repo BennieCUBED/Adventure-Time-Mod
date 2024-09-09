@@ -87,12 +87,12 @@
  {
 	 "name": "Slime Kingdom",
 	 "style": "Slime",
-	 "leaderName": "...",
+	 "leaderName": "Slime Princess",
 	 "startBias": ["Badland","Avoid [Coast]"],
 
 	 "declaringWar": "It's time to show which kingdom is the mightiest of them all!",
-	 "attacked": "...",
-	 "defeated": "...",
+	 "attacked": "We will mobilise our people, if it means we win..!",
+	 "defeated": "It looks like that you are now ruler of the Slime Kingdom.",
 	 "introduction": "This is the Slime Kingdom. care to dance?",
 
 	 "neutralHello": "Oh hello...",
@@ -100,8 +100,8 @@
 
 	 "outerColor": [69, 163, 21],
 	 "innerColor": [203, 242, 61],
-	 "uniqueName": "Technology of Old",
-	 "cities": ["Slime Kingdom"],
+	 "uniqueName": "Love games",
+	 "cities": ["Slime pit","Slime caves","Slippery slope","Saltatio Fever","Underground","Green caverns","Open area","Sticky-Sticky"],
  },
   {
 		"name": "City of Thieves",
