@@ -107,7 +107,7 @@
 		"requiredTech": "Trapping",
 	},
 	{
-		"name": "Theater",
+		"name": "Theatre",
 		"happiness": 3,
 		"culture": 1,
 		"maintenance": 2,
