@@ -168,8 +168,8 @@
 		"uniqueTo": "Slime Kingdom",
 		"movement": 4,
 		"strength": 22,
-		"cost": 190,
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Unbuildable", "Never appears as a Barbarian unit"],
+		"cost": 200,
+		"uniques": ["Can move after attacking","Never appears as a Barbarian unit"],
 		"attackSound": "tankshot",
 	},
 	{
@@ -182,6 +182,19 @@
 		"requiredTech": "Chemistry",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
 		"attackSound": "cannon"
+	},
+	  {
+		"name": "Snow Golem",
+		"uniqueTo": "Ice Kingdom",
+		"Replaces": "Warrior",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 8,
+		"cost": 25,
+		"upgradesTo": "Spearman",
+		"obsoleteTech": "Iron Working",
+		"uniques": ["[+30]% Strength <in [Snow] tiles>"],
+		"attackSound": "nonmetalhit",
 	},
 	
 ]
