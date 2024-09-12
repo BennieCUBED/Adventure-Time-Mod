@@ -6,7 +6,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Fire Guardians
   rotate: false
-  xy: 620, 733
+  xy: 898, 733
   size: 270, 270
   orig: 270, 270
   offset: 0, 0
@@ -34,7 +34,7 @@ NationIcons/Fire Kingdom
   index: -1
 NationIcons/Ice Kingdom
   rotate: false
-  xy: 898, 733
+  xy: 1176, 733
   size: 270, 270
   orig: 270, 270
   offset: 0, 0
@@ -48,245 +48,245 @@ NationIcons/Slime Kingdom
   index: -1
 ResourceIcons/Cow
   rotate: false
-  xy: 112, 4
+  xy: 1148, 625
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Duck
   rotate: false
-  xy: 1176, 747
+  xy: 1454, 747
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 ResourceIcons/Lemon
   rotate: false
-  xy: 1440, 747
+  xy: 1718, 747
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 BuildingIcons/Lemon Farm
   rotate: false
-  xy: 1440, 747
+  xy: 1718, 747
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ancient ruins2
   rotate: false
-  xy: 764, 697
+  xy: 112, 12
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ancient ruins3
   rotate: false
-  xy: 804, 697
+  xy: 1256, 633
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ancient ruins4
   rotate: false
-  xy: 844, 697
+  xy: 1982, 939
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Badland
   rotate: false
-  xy: 884, 697
+  xy: 152, 12
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Cow
   rotate: false
-  xy: 1084, 697
+  xy: 1982, 867
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Cow+Pasture
   rotate: false
-  xy: 1124, 693
+  xy: 1982, 827
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ancient Armor
   rotate: false
-  xy: 220, 12
+  xy: 1982, 975
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Banana Guard
   rotate: false
-  xy: 924, 697
+  xy: 1296, 633
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Candy
   rotate: false
-  xy: 964, 697
+  xy: 1982, 903
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Flame
   rotate: false
-  xy: 1004, 697
+  xy: 192, 12
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Goblin
   rotate: false
-  xy: 1044, 697
+  xy: 1336, 633
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-Candy
   rotate: false
-  xy: 260, 12
+  xy: 1376, 633
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-Flame
   rotate: false
-  xy: 764, 661
+  xy: 1982, 791
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-Candy
   rotate: false
-  xy: 804, 661
+  xy: 1416, 633
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-Flame
   rotate: false
-  xy: 844, 661
+  xy: 1982, 755
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Goblin
   rotate: false
-  xy: 884, 661
+  xy: 1220, 589
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Thief
   rotate: false
-  xy: 884, 661
+  xy: 1220, 589
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Vampire
   rotate: false
-  xy: 924, 661
+  xy: 1220, 553
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Candy
   rotate: false
-  xy: 964, 661
+  xy: 1220, 517
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Flame
   rotate: false
-  xy: 1004, 661
+  xy: 1148, 461
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Goblin
   rotate: false
-  xy: 1044, 661
+  xy: 1260, 597
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Candy
   rotate: false
-  xy: 1084, 661
+  xy: 1260, 561
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Flame
   rotate: false
-  xy: 1124, 657
+  xy: 1300, 597
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Goblin
   rotate: false
-  xy: 1176, 711
+  xy: 1260, 525
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Badland
   rotate: false
-  xy: 1968, 883
+  xy: 1148, 561
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Badland2
   rotate: false
-  xy: 1968, 819
+  xy: 1256, 669
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Cow
   rotate: false
-  xy: 1968, 755
+  xy: 184, 48
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Cow+Pasture
   rotate: false
-  xy: 220, 48
+  xy: 1148, 497
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Ancient Armor
   rotate: false
-  xy: 1968, 947
+  xy: 112, 48
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Thief
   rotate: false
-  xy: 620, 669
+  xy: 1328, 669
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Vampire
   rotate: false
-  xy: 692, 669
+  xy: 1400, 669
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -300,21 +300,28 @@ UnitIcons/Ancient Armor
   index: -1
 UnitIcons/Banana Guard
   rotate: false
-  xy: 312, 425
+  xy: 620, 733
   size: 270, 270
   orig: 270, 270
   offset: 0, 0
   index: -1
+UnitIcons/Snow Golem
+  rotate: false
+  xy: 312, 420
+  size: 275, 275
+  orig: 275, 275
+  offset: 0, 0
+  index: -1
 UnitIcons/Thief
   rotate: false
-  xy: 1704, 747
+  xy: 620, 469
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Vampire
   rotate: false
-  xy: 312, 161
+  xy: 884, 469
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
