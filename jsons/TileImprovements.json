@@ -64,5 +64,14 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Unpillagable", "Provides a random bonus when entered", "Unbuildable"]
 	},
+	{
+		"name": "Trading post",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
+		"gold": 2,
+		"turnsToBuild": 7,
+		"techRequired": "Guilds",
+		"uniques": ["Pillaging this improvement yields approximately [+30 Gold]"],
+		"shortcutKey": "T"
+	},
 
 ]
