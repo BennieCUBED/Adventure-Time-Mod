@@ -22,7 +22,7 @@
     "outerColor": [237, 69, 220],
     "innerColor": [214, 167, 209],
     "uniqueName": "Magic is just science!",
-    "uniques": ["[+1 Science] [in all cities]"],
+    "uniques": ["[+1 Science] [in all cities]","[-15]% unhappiness from the number of cities"],
     "cities": ["Candy town","Rockcandy town","Icecream village","Sweet city","Sour square","Pop town"],
   },
   {
@@ -42,7 +42,7 @@
     "outerColor": [219, 232, 37],
     "innerColor": [245, 245, 166],
     "uniqueName": "Unacceptable!",
-    "uniques": ["[+1 Food] per [4] population [in all cities]"],
+    "uniques": ["[+1 Food] per [4] population [in all cities]","[-20]% Food consumption by specialists [in capital]"],
     "cities": ["Castle Lemongrab","Lemon street","Flumen acidum","Lemon tower","Lemon Center","Lemon oppidum"],
   },
   {
@@ -62,7 +62,7 @@
 	  "outerColor": [168, 3, 3],
 	  "innerColor": [46, 3, 22],
 	  "uniqueName": "A Kingdom from a Spark",
-	  "uniques": ["[+50]% Strength for cities <when defending>"],
+	  "uniques": ["[+50]% Strength for cities <when defending>","No movement cost to pillage"],
 	  "cities": ["Fire Kingdom","Burning town","Blastington","Core","Hotopia","Sizzlingdale","Volcanic","Erupted Chasms"],
   },
  {
