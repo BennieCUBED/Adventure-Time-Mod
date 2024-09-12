@@ -115,4 +115,13 @@
 		"uniques": ["Destroyed when the city is captured"],
 		"requiredTech": "Entertainment", 
 	},
+		{
+		"name": "Castle",
+		"cityStrength": 6,
+		"cityHealth": 15,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Diplomacy",
+		"uniques": ["Destroyed when the city is captured"]
+	},
 ]
