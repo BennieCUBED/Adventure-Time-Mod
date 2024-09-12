@@ -135,4 +135,18 @@
 			},
 		],
 			},
+		{
+		"columnNumber": 4,
+		"era": "Adventure Time era",
+		"techCost": 175,
+		"buildingCost": 115,
+		"wonderCost": 260,
+		"techs": [
+			{
+				"name": "Chemistry",
+				"row": 10,
+				"prerequisites": ["Electricity"],
+				"quote": "'Wherever we look, the work of the chemist has raised the level of our civilization and has increased the productive capacity of the kingdom.' - Calvin Coolidge"
+			}
+			
 ]
