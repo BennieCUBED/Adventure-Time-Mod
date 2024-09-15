@@ -144,7 +144,7 @@
 		"turnsInto": "Badland",
 		"unbuildable": true,
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
-			"Must be adjacent to [3] to [6] [Desert] tiles",
+			"Must be adjacent to [3] to [6] [Badland] tiles",
 			"Grants [+175 Science] to the first civilization to discover it"],
 		"weight": 2
 	},
