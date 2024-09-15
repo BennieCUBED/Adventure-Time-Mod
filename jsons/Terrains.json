@@ -53,7 +53,7 @@
 		"overrideStats": true,
 		"unbuildable": true,
 		"defenceBonus": 0.25,
-		"occursOn": ["Grassland","Hill"],
+		"occursOn": ["Grassland","Hill","Snow"],
 		"uniques": ["Rough terrain", "Vegetation",
 					"Provides a one-time Production bonus to the closest city when cut down",
 					"Blocks line-of-sight from tiles at same elevation",
@@ -130,7 +130,22 @@
             "[+1] to Fertility for Map Generation",
             "A Region is formed with at least [25]% [Desert] tiles, with priority [4]",
             "Becomes [Flood plains] when adjacent to [River]",
-            "Considered [Undesirable] when determining start locations <in all except [Desert] Regions>",
+            "Considered [Desirable] when determining start locations <in all except [Desert] Regions>",
             "Every [13] tiles with this terrain will receive a major deposit of a strategic resource."]
+	},
+	// Wonders
+	{
+		"name": "MO Co.",
+		"type": "NaturalWonder",
+		"Science": 3,
+		"Production": 2,
+		"overrideStats": true,
+		"occursOn": ["Desert"],
+		"turnsInto": "Desert",
+		"unbuildable": true,
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [4] to [6] [Desert] tiles",
+			"Grants [+175 Science] to the first civilization to discover it"],
+		"weight": 2
 	},
 ]
