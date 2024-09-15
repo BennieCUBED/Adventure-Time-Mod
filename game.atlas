@@ -46,13 +46,6 @@ NationIcons/Slime Kingdom
   orig: 275, 275
   offset: 0, 0
   index: -1
-OtherIcons/MO Co.
-  rotate: false
-  xy: 4, 112
-  size: 275, 275
-  orig: 275, 275
-  offset: 0, 0
-  index: -1
 ResourceIcons/Cow
   rotate: false
   xy: 112, 4
@@ -79,6 +72,13 @@ BuildingIcons/Lemon Farm
   xy: 287, 131
   size: 256, 256
   orig: 256, 256
+  offset: 0, 0
+  index: -1
+TerrainIcons/MO Co.
+  rotate: false
+  xy: 4, 112
+  size: 275, 275
+  orig: 275, 275
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ancient ruins2
