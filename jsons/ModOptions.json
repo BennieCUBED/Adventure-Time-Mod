@@ -5,6 +5,8 @@
             "cityStrengthBase": 10,
             "cityStrengthFromTechsMultiplier": 2,
             "cityStrengthPerPop": 0,
+            "unitSupplyPerPopulation": 0.2,
+            "ancientRuinCountMultiplier": 0.04,
 }
 
 }
