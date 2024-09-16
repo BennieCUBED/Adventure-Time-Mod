@@ -186,72 +186,86 @@ TileSets/FantasyHex/Units/Horseman-Candy
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Settler-Candy
+  rotate: false
+  xy: 660, 55
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Spearman-Flame
   rotate: false
-  xy: 660, 56
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Swordsman-Goblin
-  rotate: false
   xy: 815, 403
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Thief
-  rotate: false
-  xy: 815, 403
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Vampire
+TileSets/FantasyHex/Units/Swordsman-Candy
   rotate: false
   xy: 815, 367
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Warrior-Candy
+TileSets/FantasyHex/Units/Swordsman-Goblin
   rotate: false
   xy: 815, 331
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Warrior-Flame
+TileSets/FantasyHex/Units/Thief
+  rotate: false
+  xy: 815, 331
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Vampire
   rotate: false
   xy: 815, 295
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Warrior-Goblin
+TileSets/FantasyHex/Units/Warrior-Candy
   rotate: false
   xy: 815, 259
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Worker-Candy
+TileSets/FantasyHex/Units/Warrior-Flame
   rotate: false
   xy: 815, 223
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Worker-Flame
+TileSets/FantasyHex/Units/Warrior-Goblin
   rotate: false
   xy: 815, 187
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Worker-Goblin
+TileSets/FantasyHex/Units/Worker-Candy
   rotate: false
   xy: 815, 151
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Flame
+  rotate: false
+  xy: 804, 115
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Goblin
+  rotate: false
+  xy: 804, 79
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
