@@ -74,7 +74,7 @@
 		"overrideStats": true,		
 		"defenceBonus": 0.30,		
 		"RGB": [105,125,72],		
-		"occursOn": ["Grassland","Snow"],		
+		"occursOn": ["Grassland","Snow","Desert"],		
 		"uniques": ["Rough terrain",
 					"[+10] Strength for cities built on this terrain",
 					"Has an elevation of [2] for visibility calculations",
