@@ -111,21 +111,21 @@ TileSets/FantasyHex/Tiles/Badland
   index: -1
 TileSets/FantasyHex/Tiles/Cow
   rotate: false
-  xy: 2001, 759
+  xy: 260, 12
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Cow+Pasture
   rotate: false
-  xy: 260, 8
+  xy: 724, 80
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/MO Co.
   rotate: false
-  xy: 620, 56
+  xy: 660, 56
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -165,107 +165,128 @@ TileSets/FantasyHex/Units/Composite Bowman-Goblin
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Crossbowman-Candy
+TileSets/FantasyHex/Units/Composite Bowman-Slime
   rotate: false
-  xy: 724, 84
+  xy: 2001, 759
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Crossbowman-Flame
+TileSets/FantasyHex/Units/Crossbowman-Candy
   rotate: false
   xy: 764, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Horseman-Candy
+TileSets/FantasyHex/Units/Crossbowman-Flame
   rotate: false
   xy: 580, 56
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Horseman-Candy
+  rotate: false
+  xy: 620, 56
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Settler-Candy
   rotate: false
-  xy: 660, 55
+  xy: 815, 402
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-Flame
   rotate: false
-  xy: 815, 403
+  xy: 815, 366
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Candy
   rotate: false
-  xy: 815, 367
+  xy: 815, 330
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Goblin
   rotate: false
-  xy: 815, 331
+  xy: 815, 294
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Thief
   rotate: false
-  xy: 815, 331
+  xy: 815, 294
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Vampire
   rotate: false
-  xy: 815, 295
+  xy: 815, 258
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Candy
   rotate: false
-  xy: 815, 259
+  xy: 815, 222
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Flame
   rotate: false
-  xy: 815, 223
+  xy: 815, 186
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Goblin
   rotate: false
-  xy: 815, 187
+  xy: 815, 150
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-Slime
+  rotate: false
+  xy: 804, 114
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Candy
   rotate: false
-  xy: 815, 151
+  xy: 804, 78
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Flame
   rotate: false
-  xy: 804, 115
+  xy: 300, 31
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Goblin
   rotate: false
-  xy: 804, 79
+  xy: 340, 31
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Slime
+  rotate: false
+  xy: 380, 31
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
