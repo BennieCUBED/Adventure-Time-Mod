@@ -104,6 +104,24 @@
 	 "uniques": ["[+30]% Production when constructing [Military] units [in all cities] <when at war>"],
 	 "cities": ["Slime pit","Slime caves","Slippery slope","Saltatio Fever","Underground","Green caverns","Open area","Sticky-Sticky"],
  },
+ {
+	 "name": "Breakfast Kingdom",
+	 "style": "Candy",
+	 "leaderName": "Breakfast Princess",
+	 "adjective": ["Breakfast"],
+	 "startBias": ["Badland"],
+
+	 "declaringWar": "Say goodbye to your 'kingdom'.",
+	 "attacked": "Get this pamplemousse out of my sight!",
+	 "defeated": "Good job on winning, let's see how much longer your victory lasts...",
+	 "introduction": "Hello! would you like some breakfast?",
+
+	 "neutralHello": "Oh, hey!",
+	 "hateHello": "Get out!",
+	 "outerColor": [],
+	 "innerColor": [],
+	 "uniqueName": "Three Princesses",
+	 "cities": ["Breakfast Kingdom","Fried","Toastington","Juiced glades","Brunchtown","Loafing","Syrupvale","Yummy","Oranges"],
   {
 		"name": "City of Thieves",
 	        "style": "Goblin",
