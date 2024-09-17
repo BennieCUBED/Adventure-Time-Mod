@@ -123,6 +123,7 @@
 	 "uniqueName": "Three Princesses",
 	 "uniques": ["[+2 Food] from all [Production] buildings","[-1 Production] from all [Production] buildings"],
 	 "cities": ["Breakfast Kingdom","Fried","Toastington","Juiced glades","Brunchtown","Loafing","Syrupvale","Yummy","Oranges"],
+ },
   {
 		"name": "City of Thieves",
 	        "style": "Goblin",
