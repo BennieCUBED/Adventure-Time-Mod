@@ -121,6 +121,7 @@
 	 "outerColor": [80, 37, 20],
 	 "innerColor": [238, 215, 181],
 	 "uniqueName": "Three Princesses",
+	 "uniques": ["[+2 Food] from all [Production] buildings","[-1 Production] from all [Production] buildings"],
 	 "cities": ["Breakfast Kingdom","Fried","Toastington","Juiced glades","Brunchtown","Loafing","Syrupvale","Yummy","Oranges"],
   {
 		"name": "City of Thieves",
