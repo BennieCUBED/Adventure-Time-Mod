@@ -73,5 +73,11 @@
 		"uniques": ["Pillaging this improvement yields approximately [+30 Gold]"],
 		"shortcutKey": "T"
 	},
+	{
+		"name": "City ruins",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Unpillagable", "Unbuildable"],
+        "civilopediaText": [{"text":"A bleak reminder of the destruction wreaked by War"}]
+	},
 
 ]
