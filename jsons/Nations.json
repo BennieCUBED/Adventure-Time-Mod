@@ -118,8 +118,8 @@
 
 	 "neutralHello": "Oh, hey!",
 	 "hateHello": "Get out!",
-	 "outerColor": [],
-	 "innerColor": [],
+	 "outerColor": [80, 37, 20],
+	 "innerColor": [238, 215, 181],
 	 "uniqueName": "Three Princesses",
 	 "cities": ["Breakfast Kingdom","Fried","Toastington","Juiced glades","Brunchtown","Loafing","Syrupvale","Yummy","Oranges"],
   {
