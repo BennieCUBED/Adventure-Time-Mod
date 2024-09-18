@@ -198,5 +198,18 @@
 		"uniques": ["[+30]% Strength <in [Snow] tiles>"],
 		"attackSound": "nonmetalhit",
 	},
+	{
+		"name": "Wizard",
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 13,
+		"range": 2,
+		"rangedStrength": 16
+		"cost": 120,
+		"requiredTech": "Iron Working",
+		"uniques": ["[+30]% Strength <vs [Melee] units>"],
+		"hurryCostModifier": 20,
+		"attackSound": "throw",
+	},
 	
 ]
