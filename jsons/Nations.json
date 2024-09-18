@@ -149,6 +149,19 @@
 		"innerColor": [161, 52, 235],
 		"cities": ["Wizard city"],
 	},
+	{
+		"name": "Village",
+		"style": "Goblin",
+		"adjective": ["Villagers"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You will pay for taking our crops!",
+		"attacked": "You monster!",
+		"defeated": "How are we gonna eat now?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [114, 173, 55],
+		"cities": ["Village"],
+	},
 		
 
   	{
