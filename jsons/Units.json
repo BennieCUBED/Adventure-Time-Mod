@@ -200,6 +200,8 @@
 	},
 	{
 		"name": "Wizard",
+		"uniqueTo": "Wizard city",
+		"replaces": "Swordsman",
 		"unitType": "Sword",
 		"movement": 3,
 		"strength": 13,
