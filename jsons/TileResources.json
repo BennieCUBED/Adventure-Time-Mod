@@ -75,7 +75,7 @@
 		"terrainsCanBeFoundOn": ["Forest","Hill"],
 		"gold": 3,
 		"improvement": "Mine",
-		"uniques": ["Generated with weight [5] <in [Tundra] Regions>",
+		"uniques": ["Generated with weight [5] <in [Snow] Regions>",
 					"Generated with weight [15] <in [Hill] Regions>",
 					"Generated with weight [7] <in [Grassland] Regions>",
 					"Generated with weight [6] <in [Hybrid] Regions>",
@@ -90,7 +90,7 @@
 		"improvement": "Mine",
 		"uniques": [
 					"Generated with weight [30] <in [Hill] Regions>",
-					"Generated with weight [5] <in [Plains] Regions>",
+					"Generated with weight [5] <in [Grassland] Regions>",
 					"Generated with weight [5] <in [Hybrid] Regions>",
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>"],
@@ -106,7 +106,7 @@
 		"uniques": ["Generated with weight [15] <in [Snow] Regions>",
 					"Generated with weight [5] <in [Forest] Regions>",
 					"Generated with weight [10] <in [Hill] Regions>",
-					"Generated with weight [25] <in [Plains] Regions>",
+					"Generated with weight [25] <in [Grassland] Regions>",
 					"Generated with weight [15] <in [Hybrid] Regions>",
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [{Forest} {Hill}] tiles>"]
