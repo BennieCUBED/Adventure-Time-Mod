@@ -127,7 +127,7 @@
             "Occurs at temperature between [0.4] and [0.6] and humidity between [0.4] and [0.5]",
             "Occurs at temperature between [0.5] and [0.6] and humidity between [0.5] and [0.7]",
             "[+1] to Fertility for Map Generation",
-            "A Region is formed with at least [25]% [Desert] tiles, with priority [4]",
+            "A Region is formed with at least [25]% [Badland] tiles, with priority [4]",
             "Becomes [Grassland] when adjacent to [River]",
             "Considered [Desirable] when determining start locations",
             "Every [13] tiles with this terrain will receive a major deposit of a strategic resource."]
