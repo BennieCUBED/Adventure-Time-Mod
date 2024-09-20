@@ -130,8 +130,16 @@
 		"production": 4,
 		"percentStatBonus": {"production": 10},
 		"requiredBuilding": "Workshop",
-		"maintenance": 1,
+		"maintenance": 2,
 		"hurryCostModifier": 0,
 		"requiredTech": "Electricity"
+	},
+	{
+		"name": "Public School",
+		"science": 3,
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Electricity", 
 	},
 ]
