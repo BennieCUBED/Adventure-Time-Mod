@@ -1,6 +1,4 @@
-[
 {
     "name": "Global uniques",
     "uniques": ["[Military] units gain the [Morale] promotion <with [2]% chance> <every [3] turns>"],
-},
-]
+}
