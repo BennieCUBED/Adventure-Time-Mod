@@ -124,4 +124,14 @@
 		"requiredTech": "Diplomacy",
 		"uniques": ["Destroyed when the city is captured"]
 	},
+	{
+		"name": "Factory",
+		"cost": 360,
+		"production": 4,
+		"percentStatBonus": {"production": 10},
+		"requiredBuilding": "Workshop",
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"requiredTech": "Electricity"
+	},
 ]
