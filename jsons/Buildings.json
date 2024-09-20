@@ -142,4 +142,14 @@
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
 		"requiredTech": "Electricity", 
 	},
+	{
+		"name": "Convenience Store",
+		"food": 3,
+		"happiness": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 35,
+		"uniques": ["[+1 Gold] per [2] population [in this city]"],
+		"requiredBuilding": "Market",
+		"requiredTech": "Guilds",
+		
 ]
