@@ -22,9 +22,20 @@
 	{	// For barbarian water units
 		"name": "Unable to pillage tiles",
 		"uniques": ["Unable to pillage tiles"]
-	}
+	},
 	{
 		"name": "Morale",
 		"uniques": ["[+15]% Strength"]
+	},
+	{
+		"name": "Coastal Raider I",
+		"uniques": ["[+20]% Strength <vs cities>", "Earn [33]% of the damage done to [City] units as [Gold]"],
+		"unitTypes": ["Melee Water"],
+        "column": 12,
+        "row": 1
+	},
+	{
+		"name": "[Privateer] ability",
+		"uniques": ["May capture killed [Water] units"]
 	},
 ]
