@@ -213,5 +213,16 @@
 		"hurryCostModifier": 20,
 		"attackSound": "throw",
 	},
+	{
+		"name": "Privateer",
+		"unitType": "Melee Water",
+		"movement": 5,
+		"strength": 25,
+		"cost": 150,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "",
+		"promotions": ["Coastal Raider I", "[Privateer] ability"],
+		"attackSound": "cannon", 
+	},
 	
 ]
