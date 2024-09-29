@@ -233,9 +233,21 @@
 		"rangedStrength": 20,
 		"cost": 185,
 		"requiredTech": "Astronomy",
-		"upgradesTo": "",
+		"upgradesTo": "Modern Boat",
 		"hurryCostModifier": 20,
 		"attackSound": "shipCannonVolley",
+	},
+	{
+		"name": "Modern Boat",
+		"unitType": "Melee Water",
+		"movement": 6,
+		"strength": 26,
+		"interceptRange": 2,
+		"cost": 200,
+		"requiredTech": "Combustion",
+		"uniques": ["Can see invisible [Submarine] units", "[40]% chance to intercept air attacks",
+			"Withdraws before melee combat <with [80]% chance>", "[+100]% Strength <vs [Submarine] units>"],
+		"attackSound": "shipguns",
 	},
 	
 ]
