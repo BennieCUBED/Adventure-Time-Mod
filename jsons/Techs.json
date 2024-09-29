@@ -101,6 +101,13 @@
 		"wonderCost": 240,
 		"techs": [
 			{
+				"name": "Astronomy",
+				"row": 1,
+				"uniques": ["[+1] Movement <for [Embarked] units>"],
+				"prerequisites": ["Mathematics","Sailing"],
+				"quote": "'Joyfully to the breeze royal Odysseus spread his sail, and with his rudder skillfully he steered.' - Homer"
+			},
+			{
 				"name": "Horseback Riding",
 				"row": 4,
 				"prerequisites": ["Trapping","Iron Working"],
@@ -148,6 +155,13 @@
 				"prerequisites": ["Electricity"],
 				"quote": "'Wherever we look, the work of the chemist has raised the level of our civilization and has increased the productive capacity of the kingdom.' - Calvin Coolidge"
 			},
+			{
+				"name": "Combustion",
+				"row": 8,
+				"prerequisites": ["Astronomy","Electricity"],
+                                "uniques": ["[-50]% weight to this choice for AI decisions"],
+				"quote": "'Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves.' - Albert Einstein"
+			}
 		],
 		},
 			
